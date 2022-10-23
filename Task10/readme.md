@@ -1,0 +1,1 @@
+[Task10 блок-схема](diagram.drawio.png)
